@@ -8,3 +8,4 @@
 [Lab 6]:https://github.com/2303A51203/AIML-2303A51203/blob/main/Lab06.ipynb
 [Lab 7]:https://github.com/2303A51203/AIML-2303A51203/blob/main/Lab07.ipynb
 [Lab 8] : https://github.com/2303A51203/AIML-2303A51203/blob/main/lab08.ipynb
+[Lab 10]:https://github.com/2303A51203/AIML-2303A51203/blob/main/Lab10.ipynb
